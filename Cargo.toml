@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+        "guest",
+        "host",
+        "server",
+]
