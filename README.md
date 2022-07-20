@@ -1,6 +1,6 @@
 # WasmWeb
 
-A Webassembly prodcedure call Demodex
+A Webassembly prodcedure call demo
 
 ## Description
 
